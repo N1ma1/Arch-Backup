@@ -1,4 +1,5 @@
 accountsservice
+acpi
 adobe-source-han-sans-cn-fonts
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
@@ -55,6 +56,7 @@ dmenu
 dmraid
 dnsmasq
 dosfstools
+dunst
 edid-decode-git
 edk2-shell
 efibootmgr
@@ -69,6 +71,7 @@ findutils
 fish
 flameshot
 flex
+freeoffice
 fsarchiver
 gawk
 gcc
@@ -109,6 +112,7 @@ jfsutils
 kitty
 laptop-detect
 libpwquality
+libreoffice-fresh
 libtool
 lightdm
 lightdm-gtk-greeter
@@ -134,6 +138,7 @@ mkinitcpio-openswap
 mlocate
 mobile-broadband-provider-info
 modemmanager
+ms-office-online
 mtools
 nano
 nbd
@@ -188,6 +193,7 @@ rsync
 rxvt-unicode
 samba
 sardi-icons
+scrot
 sdparm
 sed
 sg3_utils
@@ -259,6 +265,7 @@ which
 wireless-regdb
 wireless_tools
 wpa_supplicant
+wps-office
 wvdial
 xdg-user-dirs
 xf86-input-elographics
