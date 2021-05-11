@@ -6,6 +6,7 @@ adobe-source-han-sans-kr-fonts
 adobe-source-sans-pro-fonts
 alsa-firmware
 alsa-utils
+anaconda
 appstream
 arandr
 arc-gtk-theme
@@ -39,11 +40,11 @@ binutils
 bison
 blueberry
 bluez-utils
+breeze-gtk
 brightnessctl
 broadcom-wl
 btrfs-progs
 clonezilla
-code
 crda
 cryptsetup
 darkhttpd
@@ -96,6 +97,7 @@ gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
 gstreamer
+gtk4
 gvfs-smb
 gzip
 haveged
@@ -110,12 +112,14 @@ ipw2200-fw
 irssi
 jfsutils
 kitty
+kvantum-qt5
 laptop-detect
 libpwquality
 libreoffice-fresh
 libtool
 lightdm
 lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
 linux
 linux-atm
 linux-firmware
@@ -128,6 +132,7 @@ m4
 make
 man-db
 man-pages
+materia-gtk-theme
 mc
 mdadm
 memtest86+
@@ -185,6 +190,8 @@ pptpclient
 pulseaudio-alsa
 pulseaudio-bluetooth
 pv
+python-pip
+rbenv-git
 reflector
 reiserfsprogs
 rofi
@@ -210,6 +217,7 @@ termite
 testdisk
 texinfo
 tlp
+tree
 trizen
 ttf-bitstream-vera
 ttf-dejavu
@@ -220,6 +228,7 @@ ttf-inconsolata
 ttf-liberation
 ttf-roboto
 ttf-ubuntu-font-family
+unzip
 upower
 urxvt-perls
 urxvt-resize-font-git
@@ -257,6 +266,7 @@ vim-tabular
 vim-tagbar
 vim-ultisnips
 vim-vital
+visual-studio-code-bin
 vlc
 volumeicon
 vpnc
@@ -267,6 +277,7 @@ wireless_tools
 wpa_supplicant
 wps-office
 wvdial
+xclip
 xdg-user-dirs
 xf86-input-elographics
 xf86-input-evdev
