@@ -7,6 +7,7 @@ adobe-source-sans-pro-fonts
 alsa-firmware
 alsa-utils
 anaconda
+anydesk-bin
 appstream
 arandr
 arc-gtk-theme
@@ -39,11 +40,14 @@ bind
 binutils
 bison
 blueberry
+blueman
 bluez-utils
+bpython
 breeze-gtk
 brightnessctl
 broadcom-wl
 btrfs-progs
+chromium
 clonezilla
 crda
 cryptsetup
@@ -53,6 +57,7 @@ dex
 dhclient
 dialog
 diffutils
+discord
 dmenu
 dmraid
 dnsmasq
@@ -71,6 +76,7 @@ file
 findutils
 fish
 flameshot
+flashplugin
 flex
 freeoffice
 fsarchiver
@@ -110,16 +116,20 @@ i3status
 ipw2100-fw
 ipw2200-fw
 irssi
+iwd
 jfsutils
 kitty
 kvantum-qt5
 laptop-detect
+libinput-gestures
 libpwquality
 libreoffice-fresh
 libtool
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
+lightdm-webkit2-greeter
+lightdm-webkit2-theme-glorious
 linux
 linux-atm
 linux-firmware
@@ -142,6 +152,7 @@ mkinitcpio-nfs-utils
 mkinitcpio-openswap
 mlocate
 mobile-broadband-provider-info
+moc
 modemmanager
 ms-office-online
 mtools
@@ -179,6 +190,7 @@ partimage
 patch
 pavucontrol
 pcmanfm
+pepper-flash
 picom
 pkgconf
 playerctl
@@ -191,6 +203,8 @@ pulseaudio-alsa
 pulseaudio-bluetooth
 pv
 python-pip
+python-poetry
+qbittorrent
 rbenv-git
 reflector
 reiserfsprogs
@@ -206,6 +220,7 @@ sed
 sg3_utils
 smartmontools
 snapd
+speedtest-cli
 squashfs-tools
 sudo
 surfn-icons-git
@@ -228,6 +243,8 @@ ttf-inconsolata
 ttf-liberation
 ttf-roboto
 ttf-ubuntu-font-family
+uno-calculator-bin
+unrar
 unzip
 upower
 urxvt-perls
@@ -270,8 +287,11 @@ visual-studio-code-bin
 vlc
 volumeicon
 vpnc
+webcamoid
 wget
 which
+whois
+wine
 wireless-regdb
 wireless_tools
 wpa_supplicant
@@ -324,3 +344,4 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 yay-bin
+zip
